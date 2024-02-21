@@ -1,0 +1,38 @@
+[
+    {
+        "images": "images/legpiece1.jpg",
+        "name": "Fries Chicken",
+        "description": "We fry the chickens with fresh oil and very tasty spices to make a piece of chicken on our branch.",
+        "price": "₹ 150/-"
+    },
+    {
+        "images": "images/french-fries.jpg",
+        "name": "French Fries",
+        "description": "This are the best french fries you never taste it before so try this offer now.",
+        "price": "₹ 40/-"
+    },
+    {
+        "images": "images/lemon-tea1.jpg",
+        "name": "Lemon Tea",
+        "description": "This is the best lemon tea you ever drink before in your life, it just for our customers only.",
+        "price": "₹ 10/-"
+    },
+    {
+        "images": "images/icecream4.jpg",
+        "name": "Ice Cream",
+        "description": "We serve the quality ice cream that comes from company to make our customers happy.",
+        "price": "₹ 40/-"
+    },
+    {
+        "images": "images/fried.jpg",
+        "name": "Chicken leg piece",
+        "description": "We have the chicken leg piece that are most tasty made for our customers.",
+        "price": "₹ 80/-"
+    },
+    {
+        "images": "images/milkshake.jpg",
+        "name": "Choco Milkshake",
+        "description": "We have the most tasty and lovely milk shake  for our customers.",
+        "price": "₹ 49/-"
+    }
+]

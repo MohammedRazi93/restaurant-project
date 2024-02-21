@@ -1,0 +1,38 @@
+[
+    {
+        "images": "images/icecream6.jpg",
+        "name": "butterscotch",
+        "description": "We have quality deserve and healthy ice cream for our customers.",
+        "price": "₹ 80/-"
+    },
+    {
+        "images": "images/icecream1.jpg",
+        "name": "Blueberry",
+        "description": "We make tasty and healthy blueberry ice cream for our customers.",
+        "price": "₹ 40/-"
+    },
+    {
+        "images": "images/icecream2.jpg",
+        "name": "Mango",
+        "description": "We make tasty and healthy mango ice cream for our customers.",
+        "price": "₹ 25/-"
+    },
+    {
+        "images": "images/icecream3.jpg",
+        "name": "Chocolate ",
+        "description": "We make tasty and healthy Chocolate cone ice cream for our customers.",
+        "price": "₹ 50/-"
+    },
+    {
+        "images": "images/icecream4.jpg",
+        "name": "Rasberrry ",
+        "description": "We make tasty and healthy Rasberry ice cream for our customers.",
+        "price": "₹ 65/-"
+    },
+    {
+        "images": "images/icecream5.jpg",
+        "name": "ice cream",
+        "description": "We make tasty and healthy Special Cherry with ice cream for our customers.",
+        "price": "₹ 99/-"
+    }
+]

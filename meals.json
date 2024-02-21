@@ -1,0 +1,38 @@
+[
+    {
+        "images": "images/dalrice.jpg",
+        "name": "Dal Rice",
+        "description": "We have best taste and certified basmati rice that has made by dal rice for our customers.",
+        "price": "₹ 80/-"
+    },
+    {
+        "images": "images/briyani3.jpg",
+        "name": "Hydrabadi Briyani",
+        "description": "We make best taste of hydrabadi briyani that is same like hydrabad for our customers.",
+        "price": "₹ 180/-"
+    },
+    {
+        "images": "images/ricefull.jpg",
+        "name": "Full Meals",
+        "description": "We serve rice with several types of dishes with complimentry for full meal dish.",
+        "price": "₹ 100/-"
+    },
+    {
+        "images": "images/briyani1.jpg",
+        "name": "Egg Briyani",
+        "description": "We make best quality egg briyani that has a special taste for our customers only.",
+        "price": "₹ 70/-"
+    },
+    {
+        "images": "images/lemon-rice.jpg",
+        "name": "Lemon Rice",
+        "description": "We serve lemon rice with a quailty of rice that has come from our best chef .",
+        "price": "₹ 40/-"
+    },
+    {
+        "images": "images/rice1.jpg",
+        "name": "Curd Rice",
+        "description": "We make best dish and tasty, healthy curd rice for our customers.",
+        "price": "₹ 30/-"
+    }
+]

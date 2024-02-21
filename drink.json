@@ -1,0 +1,38 @@
+[
+    {
+        "images": "images/milk.jpg",
+        "name": "Milk",
+        "description": "We have pure and healthy milk from farm that is so fresh only for our customers.",
+        "price": "₹ 120/-"
+    },
+    {
+        "images": "images/lemon-tea1.jpg",
+        "name": "Lemon tea",
+        "description": "We have the most special Lemon tea you never taste it before so try this now.",
+        "price": "₹ 20/-"
+    },
+    {
+        "images": "images/dragon-juice.jpg",
+        "name": "Dragon fruit juice",
+        "description": "We serve tasty and healthy dragon fruit juice for our customers.",
+        "price": "₹99/-"
+    },
+    {
+        "images": "images/chocolate-milkshake.jpg",
+        "name": "Milkshake",
+        "description": "We make the best tasty and smoothy Milkshake drink for our customers.",
+        "price": "₹ 150/-"
+    },
+    {
+        "images": "images/cold-coffee.jpg",
+        "name": "Coffee",
+        "description": "We make tasty and traditional Coffee with blended sparkes for our customers.",
+        "price": "₹ 20/-"
+    },
+    {
+        "images": "images/orange-juice.jpg",
+        "name": "Orange juice",
+        "description": "We have fresh and tasty n healthy orange juice for our customers.",
+        "price": "₹ 49/-"
+    }
+]

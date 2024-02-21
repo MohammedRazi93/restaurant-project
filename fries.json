@@ -1,0 +1,38 @@
+[
+    {
+        "images": "images/samosa.jpg",
+        "name": "Samosa ",
+        "description": "This is the not common samosa this are the chicken samosa for our customers",
+        "price": "₹ 30/-"
+    },
+    {
+        "images": "images/fried.jpg",
+        "name": "Fried chicken",
+        "description": "We serve crispy and hot spicy Chicken piece for our customers.",
+        "price": "₹ 80/-"
+    },
+    {
+        "images": "images/burger.jpg",
+        "name": "Cheese Burger",
+        "description": "We make tasty and healthy Cheese Burger for our customers.",
+        "price": "₹ 100/-"
+    },
+    {
+        "images": "images/pizza4.jpg",
+        "name": "Pizza",
+        "description": "We have the best quality based delight margaretta Pizza from our branch.",
+        "price": "₹ 199/-"
+    },
+    {
+        "images": "images/nuggets.jpg",
+        "name": "Nuggets",
+        "description": "We make crispy and tasty cheese chicken nuggets for our customers.",
+        "price": "₹ 150/-"
+    },
+    {
+        "images": "images/vada.jpg",
+        "name": "Vada",
+        "description": "We have the tasty and soft quality vada that gives you immunity for our customers.",
+        "price": "₹ 25/-"
+    }
+]

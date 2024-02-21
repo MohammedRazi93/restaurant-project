@@ -1,0 +1,79 @@
+{
+ 
+
+    "breakfast": [
+        {
+            "images": "images/egg1.jpg",
+            "name": "Omlette",
+            "footType": "Breakfast"
+        },
+        {
+            "images": "images/roti.jpg",
+            "name": "roti",
+            "footType": "Breakfast"
+        },
+        {
+            "images": "images/idly.jpg",
+            "name": "Idly & chutney",
+            "footType": "Breakfast"
+        }
+        
+    ],
+
+    "lunch": [
+        {
+            "images": "images/briyani4.jpg",
+            "name": "Briyani",
+            "footType": "lunch"
+        },
+        {
+            "images": "images/rice2.jpg",
+            "name": "White Rice",
+            "footType": "Lunch"
+        },
+        {
+            "images": "images/dalricefull.jpg",
+            "name": "Dal Rice",
+            "footType": "Lunch"
+        }
+        
+    ],
+
+    "desserts": [
+        {
+            "images": "images/chocolate-ice1.jpg",
+            "name": "Chcolate Ice Cream",
+            "footType": "Ice cream"
+        },
+        {
+            "images": "images/chocolate-ice.jpg",
+            "name": "Chocobar",
+            "footType": "Ice cream"
+        },
+        {
+            "images": "images/rassberry-ice.jpg",
+            "name": "Rasberry ice cream",
+            "footType": "Ice cream"
+        }
+        
+    ],
+    "drinks": [
+        {
+            "images": "images/teafull.jpg",
+            "name": "Tea",
+            "footType": "Hot Drinks"
+        },
+        {
+            "images": "images/black-coffee.jpg",
+            "name": "Black Coffee",
+            "footType": "Hot Drinks"
+        },
+        {
+            "images": "images/coffee.jpg",
+            "name": "Coffee",
+            "footType": "Hot Drinks"
+        }
+        
+    ]
+
+}
