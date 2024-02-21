@@ -3,8 +3,8 @@
 
     "breakfast": [
         {
-            "images": "images/egg1.jpg",
-            "name": "Omlette",
+            "images": "images/idly.jpg",
+            "name": "Idly & chutney",
             "footType": "Breakfast"
         },
         {
@@ -13,8 +13,8 @@
             "footType": "Breakfast"
         },
         {
-            "images": "images/idly.jpg",
-            "name": "Idly & chutney",
+            "images": "images/egg1.jpg",
+            "name": "Omlette",
             "footType": "Breakfast"
         }
         
