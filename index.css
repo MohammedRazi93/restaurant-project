@@ -1719,8 +1719,8 @@ iframe {
   }
 
   .menu-btns {
-    width: 75%;
-  }
+    width: 100%;
+}
 
   .menu-btn {
     font-size: 8px;
@@ -1731,8 +1731,8 @@ iframe {
   }
 
   .controls {
-    width: 80%;
-  }
+    width: 100%;
+}
 
   .footer {
     padding: 80px 15px;
