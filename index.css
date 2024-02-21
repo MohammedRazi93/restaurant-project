@@ -55,7 +55,7 @@ body {
 
 /* Style for the form container */
 .form4 {
-  background: linear-gradient(132deg, #ffffff45, #ffffff00);
+  background: linear-gradient(132deg, #615e5e67, #131212a1  );
   max-width: 600px;
   min-width: 350px;
   margin: 20px auto;
@@ -76,14 +76,14 @@ body {
 }
 
 #close {
-  background: red;
+  background: rgb(110, 11, 11);
 }
 
 /* Style for the form header */
 .form4 h2 {
   font-size: 24px;
   margin-bottom: 20px;
-  color: #43766C;
+  color: white;
 }
 
 /* Style for input boxes */
@@ -1726,7 +1726,7 @@ iframe {
 }
 
   .menu-btn {
-    font-size: 11px;
+    font-size: 10.5px;
   }
 
   .menu1-btn {
