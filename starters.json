@@ -1,15 +1,15 @@
 [
     {
-        "images": "images/legpiece1.jpg",
-        "name": "Fries Chicken",
-        "description": "We fry the chickens with fresh oil and very tasty spices to make a piece of chicken on our branch.",
-        "price": "₹ 150/-"
-    },
-    {
         "images": "images/french-fries.jpg",
         "name": "French Fries",
         "description": "This are the best french fries you never taste it before so try this offer now.",
         "price": "₹ 40/-"
+    },
+    {
+        "images": "images/legpiece1.jpg",
+        "name": "Fries Chicken",
+        "description": "We fry the chickens with fresh oil and very tasty spices to make a piece of chicken on our branch.",
+        "price": "₹ 150/-"
     },
     {
         "images": "images/lemon-tea1.jpg",
@@ -25,7 +25,7 @@
     },
     {
         "images": "images/fried.jpg",
-        "name": "Chicken leg piece",
+        "name": "Chicken Wings",
         "description": "We have the chicken leg piece that are most tasty made for our customers.",
         "price": "₹ 80/-"
     },

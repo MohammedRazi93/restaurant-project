@@ -333,6 +333,7 @@ section {
   color: #43766C;
   font-weight: bold;
   padding-bottom: 20px;
+  font-size: 2.5rem;
 }
 
 .heading span {
@@ -445,7 +446,9 @@ section {
   border-radius: 10px;
   padding: 20px 20px;
 }
-
+#price1{
+  color: #ccc;
+}
 #price2 {
   color: #ccc;
 }
@@ -510,7 +513,7 @@ section {
   color: gray;
 }
 
-.rio1 {
+.razi1 {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -727,6 +730,7 @@ section {
   border-radius: 10px;
   filter: blur(0.10);
   position: relative;
+  transition: transform 0.3s ease;
 }
 
 .rio6 img {
@@ -897,7 +901,6 @@ iframe {
 }
 
 .footer-bottom {
-  background-color: #4740406b;
   padding: 10px 0;
   text-align: center;
   font-size: 0.9rem;
@@ -1667,15 +1670,26 @@ iframe {
     border-radius: 15px;
     font-size: 10px;
   }
-
+#bkBtn1{
+  font-size: 10px;
+}
   .carousel-item h2 {
-    font-size: 1.5pc;
+    font-size: 1.8pc;
   }
 
   .carousel-item p {
-    font-size: 9px;
+    font-size: 11px;
   }
-
+  .carousel-item a {
+    margin-top: 10px;
+    font-size: 8px;
+}
+.pics {
+  top:55%;
+}
+.pics .btn {
+  margin-top: 10px;
+}
   .about .hea h1 {
     font-size: 2rem;
   }
